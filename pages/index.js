@@ -40,7 +40,7 @@ export default function Home() {
                   <p>Reports</p>
                 </li>
               </ul>
-              <div className="bg-gray-700 shadow-gray rounded-2xl p-5">
+              <div className="bg-gray-700 shadow-gray rounded-2xl p-5 mb-[5px]">
                 <p>Having Problem?</p>
                 <p>Contact Us</p>
               </div>
